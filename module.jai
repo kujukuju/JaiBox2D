@@ -4328,4 +4328,4 @@ b2World :: struct {
 
 #import "Math";
 #import "Windows";
-box2d :: #foreign_library "./box2d";
+box2d :: #library "./box2d";
